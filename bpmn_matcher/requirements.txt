@@ -4,7 +4,3 @@ nltk==3.2.5
 numpy==1.13.3
 pip==9.0.1
 JCC==3.0
-six==1.11.0
-pydotplus==2.0.2
-pandas==0.21.0
-matplotlib==2.0.0

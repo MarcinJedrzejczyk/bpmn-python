@@ -1,13 +1,3 @@
-# bpmn-python
-Project for creating a Python library that allows to import/export BPMN diagram (as an XML file) and provides a simple visualization capabilities
-
-Project structure
-* bpmn_python - main module of project, includes all source code
-* tests - unit tests for package
-* examples - examples of XML files used in tests
-* docs - documentation for package
-
-# bpmn-matcher
 The aim of this project was to implement chosen algorithms from ''The Process Model Matching Contest 2015'' in Python. 
 These algorithms are used to compare business process diagrams, to find elements that are similar.
 
